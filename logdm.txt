@@ -1,0 +1,10 @@
+20230529 Domain frljk.jktgtfv.com is not using HTTPS. =>>>>>>>>>>>>>>>>>>>>>>> check
+20230529 Domain frljk.jktgws.com is not using HTTPS. =>>>>>>>>>>>>>>>>>>>>>>> check
+20230530 Domain frljk.jktgtfv.com is not using HTTPS. =>>>>>>>>>>>>>>>>>>>>>>> check
+20230530 Domain frljk.jktgws.com is not using HTTPS. =>>>>>>>>>>>>>>>>>>>>>>> check
+20230531 Domain frljk.jktgtfv.com is not using HTTPS. =>>>>>>>>>>>>>>>>>>>>>>> check
+20230531 Domain frljk.jktgws.com is not using HTTPS. =>>>>>>>>>>>>>>>>>>>>>>> check
+20230601 Domain frljk.jktgtfv.com is not using HTTPS. =>>>>>>>>>>>>>>>>>>>>>>> check
+20230601 Domain frljk.jktgws.com is not using HTTPS. =>>>>>>>>>>>>>>>>>>>>>>> check
+20230602 Domain frljk.jktgtfv.com is not using HTTPS. =>>>>>>>>>>>>>>>>>>>>>>> check
+20230602 Domain frljk.jktgws.com is not using HTTPS. =>>>>>>>>>>>>>>>>>>>>>>> check
