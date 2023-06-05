@@ -1,6 +1,6 @@
 import requests
 
-api_key = "40d3791ba08273e1571446ede39bc9a1"
+api_key = "1f2a71f62d81a8cef7761ced6c355e4d"
 
 create_task_url = f"https://task.boce.com/v3/node/list?key={api_key}"
 create_response = requests.get(create_task_url)

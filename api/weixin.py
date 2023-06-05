@@ -1,3 +1,6 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
 import requests
 
 
@@ -8,7 +11,7 @@ test_fail = "/Users/steven/Desktop/ceshicunchu/api/log/3.txt"
 non_file = "/Users/steven/Desktop/ceshicunchu/api/log/4.txt"
 
 url = "https://api.boce.com/v3/task/create/wechat"
-key = "97fa88c09ec4fe9ebdc614ecfa361461"  # 申请的key
+key = "1f2a71f62d81a8cef7761ced6c355e4d"  # 申请的key
 
 filename = "/Users/steven/Desktop/ceshicunchu/api/domain_list.txt"
 
